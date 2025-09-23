@@ -1,0 +1,14 @@
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\bin\Debug\net8.0\ExerciciosProj.exe
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\bin\Debug\net8.0\ExerciciosProj.deps.json
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\bin\Debug\net8.0\ExerciciosProj.runtimeconfig.json
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\bin\Debug\net8.0\ExerciciosProj.dll
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\bin\Debug\net8.0\ExerciciosProj.pdb
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\obj\Debug\net8.0\ExerciciosProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\obj\Debug\net8.0\ExerciciosProj.AssemblyInfoInputs.cache
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\obj\Debug\net8.0\ExerciciosProj.AssemblyInfo.cs
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\obj\Debug\net8.0\ExerciciosProj.csproj.CoreCompileInputs.cache
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\obj\Debug\net8.0\ExerciciosProj.dll
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\obj\Debug\net8.0\refint\ExerciciosProj.dll
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\obj\Debug\net8.0\ExerciciosProj.pdb
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\obj\Debug\net8.0\ExerciciosProj.genruntimeconfig.cache
+C:\Users\vivia\OneDrive\Documentos\IF\Projetos\ListaDeExerc-cios1_LP\ExerciciosProj\obj\Debug\net8.0\ref\ExerciciosProj.dll
