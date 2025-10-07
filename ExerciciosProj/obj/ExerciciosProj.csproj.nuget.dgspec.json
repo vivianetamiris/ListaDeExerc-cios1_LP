@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vivia\\OneDrive\\Documentos\\IF\\Projetos\\ListaDeExerc-cios1_LP\\ExerciciosProj\\ExerciciosProj.csproj": {}
+    "C:\\Users\\vivia\\OneDrive\\Documentos\\IF\\Projetos\\ListaDeExerc-cios1_LP\\ListaDeExerc-cios1_LP\\ExerciciosProj\\ExerciciosProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vivia\\OneDrive\\Documentos\\IF\\Projetos\\ListaDeExerc-cios1_LP\\ExerciciosProj\\ExerciciosProj.csproj": {
+    "C:\\Users\\vivia\\OneDrive\\Documentos\\IF\\Projetos\\ListaDeExerc-cios1_LP\\ListaDeExerc-cios1_LP\\ExerciciosProj\\ExerciciosProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vivia\\OneDrive\\Documentos\\IF\\Projetos\\ListaDeExerc-cios1_LP\\ExerciciosProj\\ExerciciosProj.csproj",
+        "projectUniqueName": "C:\\Users\\vivia\\OneDrive\\Documentos\\IF\\Projetos\\ListaDeExerc-cios1_LP\\ListaDeExerc-cios1_LP\\ExerciciosProj\\ExerciciosProj.csproj",
         "projectName": "ExerciciosProj",
-        "projectPath": "C:\\Users\\vivia\\OneDrive\\Documentos\\IF\\Projetos\\ListaDeExerc-cios1_LP\\ExerciciosProj\\ExerciciosProj.csproj",
+        "projectPath": "C:\\Users\\vivia\\OneDrive\\Documentos\\IF\\Projetos\\ListaDeExerc-cios1_LP\\ListaDeExerc-cios1_LP\\ExerciciosProj\\ExerciciosProj.csproj",
         "packagesPath": "C:\\Users\\vivia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vivia\\OneDrive\\Documentos\\IF\\Projetos\\ListaDeExerc-cios1_LP\\ExerciciosProj\\obj\\",
+        "outputPath": "C:\\Users\\vivia\\OneDrive\\Documentos\\IF\\Projetos\\ListaDeExerc-cios1_LP\\ListaDeExerc-cios1_LP\\ExerciciosProj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vivia\\AppData\\Roaming\\NuGet\\NuGet.Config"
